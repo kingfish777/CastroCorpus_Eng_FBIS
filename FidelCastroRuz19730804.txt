@@ -1,0 +1,62 @@
+Castro Speech Data Base - Latin American Network Information Center, LANIC
+
+ 
+
+CSDB Home
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+-DATE-
+19730804
+-YEAR-
+1973
+-DOCUMENT_TYPE-
+APPEARANCE
+-AUTHOR-
+F. CASTRO
+-HEADLINE-
+CASTRO VISITS GDR EMBASSY
+-PLACE-
+CUBA
+-SOURCE-
+HAVANA DOMESTIC TV SVC
+-REPORT_NBR-
+FBIS
+-REPORT_DATE-
+19730807
+-TEXT-
+CASTRO VISITS GDR EMBASSY--Maj Fidel Castro and President Osvaldo Dorticos
+visited the GDR Embassy to offer condolences on the death of Walter
+Ulbricht, chairman of the GDR State Council. At the embassy they were
+received by GDR ambassador (Helmut Bowermeister). [Havana Domestic
+Television Service in Spanish 1700 GMT 4 Aug 73 F]
+-END-
+
+
+
+LANIC |
+Comment |
+FAQ
+
+
+
+_uacct = "UA-420825-1";
+urchinTracker();
+

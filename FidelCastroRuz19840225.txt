@@ -1,0 +1,74 @@
+Castro Speech Data Base - Latin American Network Information Center, LANIC
+
+ 
+
+CSDB Home
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+-DATE-
+19840225
+-YEAR-
+1984
+-DOCUMENT_TYPE-
+SPEECH
+-AUTHOR-
+F. CASTRO
+-HEADLINE-
+15TH CONGRESS OF CUBA'S TRADE UNION CENTER
+-PLACE-
+CUBA
+-SOURCE-
+MOSCOW TASS
+-REPORT_NBR-
+FBIS
+-REPORT_DATE-
+19840228
+-TEXT-
+CASTRO ADDRESS TO TRADE UNION CONGRESS NOTED
+
+LD250828 Moscow TASS in English 0711 GMT 25 Feb 84
+
+[Text] Havana February 25 TASS -- Fidel Castro, first secretary of the
+Central Committee of the Communist Party of Cuba, chairman of the State
+Council and Council of Ministers of the republic, has addressed the closing
+session of the 15th congress of Cuba's trade union center with a big
+speech.
+
+The Cuban leader gave an in-depth analysis of the activity of trade union
+organizations, stressing their immense role in production and public life
+of the country.
+
+On international problems, Fidel Castro criticized the aggressive policy of
+imperialism which placed the world at the brink of thermonuclear
+catastrophe.
+-END-
+
+
+
+LANIC |
+Comment |
+FAQ
+
+
+
+_uacct = "UA-420825-1";
+urchinTracker();
+

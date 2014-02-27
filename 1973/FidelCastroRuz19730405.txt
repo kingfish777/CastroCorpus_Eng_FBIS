@@ -1,0 +1,81 @@
+Castro Speech Data Base - Latin American Network Information Center, LANIC
+
+ 
+
+CSDB Home
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+-DATE-
+19730405
+-YEAR-
+1973
+-DOCUMENT_TYPE-
+INTERVIEW
+-AUTHOR-
+F. CASTRO
+-HEADLINE-
+CASTRO ON ORIENTE HOSPITALITY
+-PLACE-
+CUBA
+-SOURCE-
+HAVANA PRELA
+-REPORT_NBR-
+FBIS
+-REPORT_DATE-
+19730406
+-TEXT-
+Fidel on Oriente Hospitality
+
+Havana PRELA in Spanish 1857 GMT 5 Apr 73 C--FOR OFFICIAL USE ONLY
+
+[Text] Santiago, Cuba, 5 Apr--The first secretary of the Cuban Communist
+Party and prime minister of the Revolutionary Government, Maj Fidel Castro,
+praised the people of Santiago in a special manner this morning for the
+extraordinary welcome they gave Gustav Husak and the other representatives
+of the Czechoslovak party and government.
+
+In a statement to the press and radio of Oriente Province, the leader of
+the revolution said: "We are proud of the people of Oriente, and especially
+of the people of Santiago, because they have known how to honor the great
+friendship and fraternity existing between the Cuban people and the
+Czechoslovak people."
+
+The Cuban leader's statement was made at the 26 July School, which he
+attacked with a group of heroic fighters almost 20 years ago when it was
+the former Moncada Barracks, thereby beginning the final phase of the
+struggle to attain revolutionary power.
+
+Fidel Castro spoke after General Secretary Gustav Husak made a statement to
+Oriente television in which he said he was moved by the crowds which
+greeted him here this morning.
+-END-
+
+
+
+LANIC |
+Comment |
+FAQ
+
+
+
+_uacct = "UA-420825-1";
+urchinTracker();
+

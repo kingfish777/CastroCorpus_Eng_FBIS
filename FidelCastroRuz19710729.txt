@@ -1,0 +1,72 @@
+Castro Speech Data Base - Latin American Network Information Center, LANIC
+
+ 
+
+CSDB Home
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+-DATE-
+19710729
+-YEAR-
+1971
+-DOCUMENT_TYPE-
+SPEECH
+-AUTHOR-
+F. CASTRO
+-HEADLINE-
+26 JULY ANNIVERSARY SPEECH
+-PLACE-
+CUBA
+-SOURCE-
+DAILY REPORT
+-REPORT_NBR-
+FBIS
+-REPORT_DATE-
+19710802
+-TEXT-
+CORRECTION TO CASTRO 26 JULY ANNIVERSARY SPEECH
+
+In supplement 49 entitled "Castro 26 July Anniversary Speech and
+Anniversary Related Material" published by the DAILY REPORT on 29 July
+1971. Page 23, third paragraph, third line, substitute the following for
+[short pause]:
+
+But we cannot fail to express our admiration, our acknowledgement, our
+confidence in the future of our youth and the future of our fatherland,
+when today we are able to assert that a force of young men has become the
+force with the highest productivity in Cuba in cane cutting tasks; that
+this force has more than 300 millionaire canecutters; [applause] that this
+force has 73 national heroes and that this force has achieved these
+successes with revolutionary morality, revolutionary awareness, and
+revolutionary honor, forgetting all material goods.
+-END-
+
+
+
+LANIC |
+Comment |
+FAQ
+
+
+
+_uacct = "UA-420825-1";
+urchinTracker();
+

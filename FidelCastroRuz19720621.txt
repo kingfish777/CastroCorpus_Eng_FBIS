@@ -1,0 +1,66 @@
+Castro Speech Data Base - Latin American Network Information Center, LANIC
+
+ 
+
+CSDB Home
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+-DATE-
+19720621
+-YEAR-
+1972
+-DOCUMENT_TYPE-
+APPEARANCE
+-AUTHOR-
+F. CASTRO
+-HEADLINE-
+CASTRO LEAVES BERLIN
+-PLACE-
+BERLIN
+-SOURCE-
+EAST BERLIN ADN INTL
+-REPORT_NBR-
+FBIS
+-REPORT_DATE-
+19720621
+-TEXT-
+Thousands Say Farewell
+
+East Berlin ADN International Service in German 0943 GMT 21 Jun 72 L
+
+[Text] Berlin--Fidel Castro, first secretary of the Cuban Communist Party
+Central Committee and premier of Cuba, left Berlin Wednesday. Many
+thousands of Berliners bade Fidel Castro and his party-government
+delegation a most cordial farewell. Thousands lined the road from the
+guest's residence to the airport.
+-END-
+
+
+
+LANIC |
+Comment |
+FAQ
+
+
+
+_uacct = "UA-420825-1";
+urchinTracker();
+
