@@ -1,0 +1,30 @@
+
+
+-DATE-
+19880503
+-YEAR-
+1988
+-DOCUMENT_TYPE-
+APPEARANCE
+-AUTHOR-
+F.CASTRO
+-HEADLINE-
+CORRECTION TO CASTRO THANKS FOR CPUSTAL MEDAL
+-PLACE-
+CUBA
+-SOURCE-
+-REPORT_NBR-
+FBIS
+-REPORT_DATE-
+19880505
+-TEXT-
+Correction to Castro Thanks for CPUSTAL Medal
+The following correction pertains top the item entitled "Castro Expresses
+Appreciation for CPUSTAL Medal," published in the 3 May Latin America DAILY
+REPORT, page 1, column two:
+
+Make sourceline read as follows...Havana Television Service in Spanish 0000
+GMT 3 May 88 (correcting date)
+-END-
+
+

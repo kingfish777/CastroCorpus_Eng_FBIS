@@ -1,0 +1,69 @@
+Castro Speech Data Base - Latin American Network Information Center, LANIC
+
+ 
+
+CSDB Home
+
+
+
+
+
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
+
+
+-DATE-
+19770624
+-YEAR-
+1977
+-DOCUMENT_TYPE-
+MEETING
+-AUTHOR-
+F.CASTRO
+-HEADLINE-
+SECOND DELEGATION OF AMERICAN BUSINESSMEN
+-PLACE-
+CUBA
+-SOURCE-
+KINGSTON DOMESTIC SVC
+-REPORT_NBR-
+FBIS
+-REPORT_DATE-
+19770627
+-TEXT-
+FIDEL CASTRO MEETS VISITING U.S. BUSINESSMEN
+
+FL24151Y Kingston Domestic Service in English 1430 GMT 24 Jun 77 FL
+
+[Text] The second delegation of American businessmen to visit Cuba this
+year last night met Prime Minister Fidel Castro at the end of its 4-day
+visit.  The delegation had earlier held talks on trade and the Cuban
+economy with senior government officials.  The meeting with Dr Castro took
+place at the private party for the delegation.  At this private session, Dr
+Castro reiterated his position that the full lifting of the United States
+trade embargo was essential for better relations.  The delegation leaves
+Cuba today.
+-END-
+
+
+
+LANIC |
+Comment |
+FAQ
+
+
+
+_uacct = "UA-420825-1";
+urchinTracker();
+
